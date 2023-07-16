@@ -14,3 +14,12 @@ function changeSizes() {
 }
 
 image.onclick = changeSizes;
+
+
+// function changeSizes() {
+//     counter++;
+//     clik.textContent = counter;
+//     image.width = counter % 2 ? 250 : 200;
+// }
+
+// image.onclick = changeSizes;
